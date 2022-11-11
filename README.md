@@ -13,7 +13,7 @@
 2. Select this folder in Visual Studio code by ```File``` => ```Open Folder```
 3. Open new terminal and paste this command: ```git clone https://github.com/gerainn/awayTests.git```
 4. Press ```File``` => ```Open Folder``` (Select folder ```awayTests``` located in your folder)
-5. Type in terminal and press enter: ```npm i```
+5. Type in terminal: ```npm i``` and press enter.
 6. Now you have access to all files.
 
 ## 2.
