@@ -1,0 +1,15 @@
+exports.addreses = [
+    'Austin11701 Domain Blvd. Suite 120, Austin, TX 78758See store',
+    'Boston50 Seaport Blvd., Boston, MA 02210See store',
+    'Chicago1121 N State St., Chicago, IL 60610See store',
+    'Dallas3109 Knox St., Dallas, TX 75205See store',
+    'Houston4033 Westheimer Rd., Houston, TX 77027\r\nSee store',
+    'LA: Venice Beach1103 Abbot Kinney Blvd. Unit #2, Venice, CA 90291See store',
+    'LA: West Hollywood8400 Melrose Ave., Los Angeles, CA 90069See store',
+    'London9 Earlham St., London WC2H 9LL, UKSee store',
+    'NYC: NoHo10 Bond St., New York, NY 10012See store',
+    'NYC: Williamsburg111 N 3rd St., Brooklyn, NY 11249See store',
+    'San Francisco371 Hayes St., San Francisco, CA 94102See store',
+    'Seattle2645 NE 46th St., Seattle, WA 98105See store',
+    'TorontoYorkdale Shopping Centre, 3401 Dufferin St. Unit 533, Toronto, ON M6A 2T9See store',
+]
