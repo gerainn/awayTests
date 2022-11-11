@@ -14,9 +14,7 @@
 3. Open new terminal and paste this command: ```git clone https://github.com/gerainn/awayTests.git```
 4. Press ```File``` => ```Open``` Folder (Select folder ```awayTests``` located in your folder)
 5. Type in terminal and press enter: ```npm i```
-6. If test cases are not running make sure that you have latest version of chrome
-7. And also you can run this command to update chromedriver ```npm i chromedriver@latest```
-8. Now you have access to all files.
+6. Now you have access to all files.
 
 ## 2.
 
